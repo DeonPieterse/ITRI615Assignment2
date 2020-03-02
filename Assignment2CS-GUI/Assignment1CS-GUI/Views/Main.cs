@@ -23,7 +23,7 @@ namespace Assignment1CS_GUI
             InitializeComponent();
             StartPosition = FormStartPosition.CenterScreen;
 
-            saveFileDialog1.Filter = "txt files (*.txt)|*.txt";
+            saveFileDialog1.Filter = "txt files (*.txt) | *.txt | all files (*.ct, *.pk) | *.ct, *.pk";
             saveFileDialog1.FilterIndex = 2;
             saveFileDialog1.RestoreDirectory = true;
         }
@@ -177,7 +177,6 @@ namespace Assignment1CS_GUI
                 finally
                 {
                     fileWindow.ShowDialog();
-
                 }
             }
         }
@@ -192,17 +191,17 @@ namespace Assignment1CS_GUI
             if (saveForm.SaveOption == 1)
             {
                 saveContent = txtInput.Text;
-                saveFileDialog1.FileName = "ClearText";
+                saveFileDialog1.FileName = "ClearText.txt";
             }
             else if (saveForm.SaveOption == 2)
             {
                 saveContent = txtOutput.Text;
-                saveFileDialog1.FileName = "CipherText";
+                saveFileDialog1.FileName = "CipherText.ct";
             }
             else if (saveForm.SaveOption == 3)
             {
                 saveContent = txtPrivateKey.Text;
-                saveFileDialog1.FileName = "PrivateKey";
+                saveFileDialog1.FileName = "PrivateKey.pk";
             }
             else
             {
@@ -255,8 +254,8 @@ namespace Assignment1CS_GUI
             if (txtInput.Text != null)
             {
                 var val = Encrypt(txtInput.Text);
-                string ciphertext = String.Concat(val.Item1);
-                string privateKey = String.Concat(val.Item2);
+                string ciphertext = string.Concat(val.Item1);
+                string privateKey = string.Concat(val.Item2);
                 txtOutput.Clear();
                 txtOutput.Text = ciphertext;
                 txtPrivateKey.Text = privateKey;
@@ -299,6 +298,11 @@ namespace Assignment1CS_GUI
         }
 
         private void lblTitle_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void saveFileDialog1_FileOk(object sender, System.ComponentModel.CancelEventArgs e)
         {
 
         }

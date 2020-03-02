@@ -94,6 +94,8 @@
             // 
             // txtInput
             // 
+            this.txtInput.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.txtInput.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(41)))), ((int)(((byte)(35)))), ((int)(((byte)(51)))));
             this.txtInput.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtInput.EnableAutoDragDrop = true;
@@ -280,7 +282,7 @@
             // openFileDialog1
             // 
             this.openFileDialog1.FileName = "openFileDialog1";
-            this.openFileDialog1.Filter = "(*.txt)|*.txt";
+            this.openFileDialog1.Filter = "(*.*)|*.*";
             // 
             // txtPrivateKey
             // 
@@ -296,6 +298,10 @@
             this.txtPrivateKey.Size = new System.Drawing.Size(213, 21);
             this.txtPrivateKey.TabIndex = 16;
             this.txtPrivateKey.Text = "";
+            // 
+            // saveFileDialog1
+            // 
+            this.saveFileDialog1.FileOk += new System.ComponentModel.CancelEventHandler(this.saveFileDialog1_FileOk);
             // 
             // btnClearText
             // 

@@ -44,6 +44,18 @@ namespace Assignment1CS_GUI
 
         private void Files_Load(object sender, EventArgs e)
         {
+
+            if (file.FileName.Contains(".ct"))
+            {
+                txtOutput.Text = fileContent;
+                lblOutput.Text = file.FileName;
+                Close();
+            }
+            else if (file.FileName.Contains(".pk"))
+            {
+                txtKey.Text = fileContent;
+                Close();
+            }
         }
 
         private void btnCancel_Click(object sender, EventArgs e)
