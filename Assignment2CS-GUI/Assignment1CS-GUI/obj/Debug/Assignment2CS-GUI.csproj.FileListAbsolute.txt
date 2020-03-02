@@ -1,0 +1,55 @@
+C:\Users\Gideo\source\repos\Assignment1CS-GUI\Assignment1CS-GUI\bin\Debug\Secure Encryption.exe.config
+C:\Users\Gideo\source\repos\Assignment1CS-GUI\Assignment1CS-GUI\bin\Debug\Secure Encryption.exe.manifest
+C:\Users\Gideo\source\repos\Assignment1CS-GUI\Assignment1CS-GUI\bin\Debug\Secure Encryption.application
+C:\Users\Gideo\source\repos\Assignment1CS-GUI\Assignment1CS-GUI\bin\Debug\Secure Encryption.exe
+C:\Users\Gideo\source\repos\Assignment1CS-GUI\Assignment1CS-GUI\bin\Debug\Secure Encryption.pdb
+C:\Users\Gideo\source\repos\Assignment1CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment2CS-GUI.csprojAssemblyReference.cache
+C:\Users\Gideo\source\repos\Assignment1CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment1CS_GUI.Files.resources
+C:\Users\Gideo\source\repos\Assignment1CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment1CS_GUI.Main.resources
+C:\Users\Gideo\source\repos\Assignment1CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment1CS_GUI.Properties.Resources.resources
+C:\Users\Gideo\source\repos\Assignment1CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment1CS_GUI.SaveForm.resources
+C:\Users\Gideo\source\repos\Assignment1CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment2CS-GUI.csproj.GenerateResource.cache
+C:\Users\Gideo\source\repos\Assignment1CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment2CS-GUI.csproj.CoreCompileInputs.cache
+C:\Users\Gideo\source\repos\Assignment1CS-GUI\Assignment1CS-GUI\obj\Debug\Secure Encryption.exe.manifest
+C:\Users\Gideo\source\repos\Assignment1CS-GUI\Assignment1CS-GUI\obj\Debug\Secure Encryption.application
+C:\Users\Gideo\source\repos\Assignment1CS-GUI\Assignment1CS-GUI\obj\Debug\Secure Encryption.exe
+C:\Users\Gideo\source\repos\Assignment1CS-GUI\Assignment1CS-GUI\obj\Debug\Secure Encryption.pdb
+C:\Users\c315gp\Desktop\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment2CS-GUI.csprojAssemblyReference.cache
+C:\Users\c315gp\Desktop\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment1CS_GUI.Files.resources
+C:\Users\c315gp\Desktop\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment1CS_GUI.Main.resources
+C:\Users\c315gp\Desktop\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment1CS_GUI.Properties.Resources.resources
+C:\Users\c315gp\Desktop\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment1CS_GUI.SaveForm.resources
+C:\Users\c315gp\Desktop\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment2CS-GUI.csproj.GenerateResource.cache
+C:\Users\c315gp\Desktop\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\obj\Debug\Secure Encryption.exe
+C:\Users\c315gp\Desktop\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\obj\Debug\Secure Encryption.pdb
+C:\Users\c315gp\Desktop\Assignment 2 CS\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment2CS-GUI.csprojAssemblyReference.cache
+C:\Users\c315gp\Desktop\Assignment 2 CS\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment1CS_GUI.Files.resources
+C:\Users\c315gp\Desktop\Assignment 2 CS\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment1CS_GUI.Main.resources
+C:\Users\c315gp\Desktop\Assignment 2 CS\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment1CS_GUI.Properties.Resources.resources
+C:\Users\c315gp\Desktop\Assignment 2 CS\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment1CS_GUI.SaveForm.resources
+C:\Users\c315gp\Desktop\Assignment 2 CS\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment2CS-GUI.csproj.GenerateResource.cache
+C:\Users\c315gp\Desktop\Assignment 2 CS\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\obj\Debug\Secure Encryption.exe
+C:\Users\c315gp\Desktop\Assignment 2 CS\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\obj\Debug\Secure Encryption.pdb
+E:\Assignment 2 CS\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment2CS-GUI.csprojAssemblyReference.cache
+E:\Assignment 2 CS\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment1CS_GUI.Files.resources
+E:\Assignment 2 CS\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment1CS_GUI.Main.resources
+E:\Assignment 2 CS\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment1CS_GUI.Properties.Resources.resources
+E:\Assignment 2 CS\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment1CS_GUI.SaveForm.resources
+E:\Assignment 2 CS\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment2CS-GUI.csproj.GenerateResource.cache
+E:\Assignment 2 CS\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\obj\Debug\Secure Encryption.exe
+E:\Assignment 2 CS\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\obj\Debug\Secure Encryption.pdb
+C:\Users\Gideo\Desktop\#Projects#\ITRI 615 Assignment 2\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\bin\Debug\Secure Encryption.exe.config
+C:\Users\Gideo\Desktop\#Projects#\ITRI 615 Assignment 2\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\bin\Debug\Secure Encryption.exe.manifest
+C:\Users\Gideo\Desktop\#Projects#\ITRI 615 Assignment 2\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\bin\Debug\Secure Encryption.application
+C:\Users\Gideo\Desktop\#Projects#\ITRI 615 Assignment 2\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\bin\Debug\Secure Encryption.exe
+C:\Users\Gideo\Desktop\#Projects#\ITRI 615 Assignment 2\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\bin\Debug\Secure Encryption.pdb
+C:\Users\Gideo\Desktop\#Projects#\ITRI 615 Assignment 2\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment2CS-GUI.csprojAssemblyReference.cache
+C:\Users\Gideo\Desktop\#Projects#\ITRI 615 Assignment 2\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment1CS_GUI.Files.resources
+C:\Users\Gideo\Desktop\#Projects#\ITRI 615 Assignment 2\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment1CS_GUI.Main.resources
+C:\Users\Gideo\Desktop\#Projects#\ITRI 615 Assignment 2\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment1CS_GUI.SaveForm.resources
+C:\Users\Gideo\Desktop\#Projects#\ITRI 615 Assignment 2\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment2CS-GUI.csproj.GenerateResource.cache
+C:\Users\Gideo\Desktop\#Projects#\ITRI 615 Assignment 2\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\obj\Debug\Secure Encryption.exe.manifest
+C:\Users\Gideo\Desktop\#Projects#\ITRI 615 Assignment 2\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\obj\Debug\Secure Encryption.application
+C:\Users\Gideo\Desktop\#Projects#\ITRI 615 Assignment 2\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\obj\Debug\Secure Encryption.exe
+C:\Users\Gideo\Desktop\#Projects#\ITRI 615 Assignment 2\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\obj\Debug\Secure Encryption.pdb
+C:\Users\Gideo\Desktop\#Projects#\ITRI 615 Assignment 2\Assignment 2 CS - Code\Assignment2CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment2CS_GUI.Properties.Resources.resources

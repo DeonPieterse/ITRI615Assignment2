@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment2CS-GUI", "Assignment1CS-GUI\Assignment2CS-GUI.csproj", "{A80F88D5-2C9D-400F-A82F-3C819E2C530D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A80F88D5-2C9D-400F-A82F-3C819E2C530D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A80F88D5-2C9D-400F-A82F-3C819E2C530D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A80F88D5-2C9D-400F-A82F-3C819E2C530D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A80F88D5-2C9D-400F-A82F-3C819E2C530D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB5BF021-7C5A-4141-B68E-5124880F72A2}
+	EndGlobalSection
+EndGlobal

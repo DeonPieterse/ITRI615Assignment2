@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "e:\\Assignment 2 CS\\Assignment 2 CS - Code\\Assignment2CS-GUI\\Assignment1CS-GUI\\Assignment2CS-GUI.csproj",
+  "TargetFramework": "v4.7.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\Gideo\source\repos\Assignment1CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment1CS_GUI.Properties.Resources.resources
+C:\Users\Gideo\source\repos\Assignment1CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment1CS-GUI.csproj.GenerateResource.cache
+C:\Users\Gideo\source\repos\Assignment1CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment1CS-GUI.csproj.CoreCompileInputs.cache
+C:\Users\Gideo\source\repos\Assignment1CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment1CS_GUI.Main.resources
+C:\Users\Gideo\source\repos\Assignment1CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment1CS_GUI.Files.resources
+C:\Users\Gideo\source\repos\Assignment1CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment1CS_GUI.SaveForm.resources
+C:\Users\Gideo\source\repos\Assignment1CS-GUI\Assignment1CS-GUI\obj\Debug\Assignment1CS-GUI.csprojAssemblyReference.cache
+C:\Users\Gideo\source\repos\Assignment1CS-GUI\Assignment1CS-GUI\bin\Debug\Secure Encryption.exe.config
+C:\Users\Gideo\source\repos\Assignment1CS-GUI\Assignment1CS-GUI\bin\Debug\Secure Encryption.exe.manifest
+C:\Users\Gideo\source\repos\Assignment1CS-GUI\Assignment1CS-GUI\bin\Debug\Secure Encryption.application
+C:\Users\Gideo\source\repos\Assignment1CS-GUI\Assignment1CS-GUI\bin\Debug\Secure Encryption.exe
+C:\Users\Gideo\source\repos\Assignment1CS-GUI\Assignment1CS-GUI\bin\Debug\Secure Encryption.pdb
+C:\Users\Gideo\source\repos\Assignment1CS-GUI\Assignment1CS-GUI\obj\Debug\Secure Encryption.exe.manifest
+C:\Users\Gideo\source\repos\Assignment1CS-GUI\Assignment1CS-GUI\obj\Debug\Secure Encryption.application
+C:\Users\Gideo\source\repos\Assignment1CS-GUI\Assignment1CS-GUI\obj\Debug\Secure Encryption.exe
+C:\Users\Gideo\source\repos\Assignment1CS-GUI\Assignment1CS-GUI\obj\Debug\Secure Encryption.pdb
