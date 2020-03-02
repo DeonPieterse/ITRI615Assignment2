@@ -94,8 +94,6 @@
             // 
             // txtInput
             // 
-            this.txtInput.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.txtInput.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(41)))), ((int)(((byte)(35)))), ((int)(((byte)(51)))));
             this.txtInput.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtInput.EnableAutoDragDrop = true;
@@ -113,7 +111,7 @@
             this.btnExit.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnExit.FlatAppearance.BorderSize = 0;
             this.btnExit.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnExit.ForeColor = System.Drawing.Color.Fuchsia;
+            this.btnExit.ForeColor = System.Drawing.Color.Aqua;
             this.btnExit.Image = ((System.Drawing.Image)(resources.GetObject("btnExit.Image")));
             this.btnExit.Location = new System.Drawing.Point(932, 12);
             this.btnExit.Name = "btnExit";
@@ -127,7 +125,7 @@
             this.btnMax.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnMax.FlatAppearance.BorderSize = 0;
             this.btnMax.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnMax.ForeColor = System.Drawing.Color.Fuchsia;
+            this.btnMax.ForeColor = System.Drawing.Color.Aqua;
             this.btnMax.Image = ((System.Drawing.Image)(resources.GetObject("btnMax.Image")));
             this.btnMax.Location = new System.Drawing.Point(861, 12);
             this.btnMax.Name = "btnMax";
@@ -141,7 +139,7 @@
             this.btnMin.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnMin.FlatAppearance.BorderSize = 0;
             this.btnMin.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnMin.ForeColor = System.Drawing.Color.Fuchsia;
+            this.btnMin.ForeColor = System.Drawing.Color.Aqua;
             this.btnMin.Image = ((System.Drawing.Image)(resources.GetObject("btnMin.Image")));
             this.btnMin.Location = new System.Drawing.Point(790, 12);
             this.btnMin.Name = "btnMin";
@@ -304,7 +302,7 @@
             this.btnClearText.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.btnClearText.FlatAppearance.BorderSize = 0;
             this.btnClearText.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnClearText.ForeColor = System.Drawing.Color.Fuchsia;
+            this.btnClearText.ForeColor = System.Drawing.Color.Aqua;
             this.btnClearText.Image = ((System.Drawing.Image)(resources.GetObject("btnClearText.Image")));
             this.btnClearText.Location = new System.Drawing.Point(922, 301);
             this.btnClearText.Name = "btnClearText";

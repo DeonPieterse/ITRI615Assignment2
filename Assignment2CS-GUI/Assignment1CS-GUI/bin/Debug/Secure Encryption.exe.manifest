@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Secure Encryption.exe" size="172968">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Secure Encryption.exe" size="172456">
       <assemblyIdentity name="Secure Encryption" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>DO9K/g72RgImV2m1Sn/Yl3+aSN7DH6/u/SGSx4dJtPU=</dsig:DigestValue>
+        <dsig:DigestValue>m7aAJo5VA++qYyAGOxNIrrQx9rfuYiTzR/OvDnrGZjk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

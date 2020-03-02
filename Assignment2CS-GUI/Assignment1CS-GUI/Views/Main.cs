@@ -108,43 +108,49 @@ namespace Assignment1CS_GUI
         public string Decrypt(string cipherText, string privateKey)
         {
             string numPattern = @"\D+";
-            string charPattern = @"[^a-z]";
+            string charPattern = @"[^a-zA-Z]";
 
             // Strings of all numbers in array without special characters
             string[] numbersFromClearText = Regex.Split(cipherText, numPattern);
 
             // Strings of all ascii characters
-            long[] privateKeyDeductions = Regex.Split(privateKey, charPattern).Select(long.Parse).ToArray();
+            //long[] privateKeyDeductions = Regex.Split(privateKey, charPattern).Select(long.Parse).ToArray();
+            string[] privateKeyDeductions = Regex.Split(privateKey, charPattern).ToArray();
 
             // Removes all the null values in the array
-            numbersFromClearText = RemoveNulls(numbersFromClearText);
+            string[] numbersFromClearTextWithoutNulls = RemoveNulls(numbersFromClearText);
 
             // Removes all the null values in the array
-            privateKeyDeductions = RemoveNulls(privateKeyDeductions);
+            string[] privateKeyDeductionsWithoutNulls = RemoveNulls(privateKeyDeductions);
 
             // all numbers in numbersFromClearText converted to ints
-            long[] numberSegments = Array.ConvertAll(numbersFromClearText, long.Parse);
-            char[] decryptedSegments = new char[numbersFromClearText.Length];
+            long[] numberSegments = Array.ConvertAll(numbersFromClearTextWithoutNulls, long.Parse);
+            char[] decryptedSegments = new char[numbersFromClearTextWithoutNulls.Length];
 
-            if (numberSegments.Length != privateKeyDeductions.Length && txtPrivateKey.Text != "")
+            if (numberSegments.Length != privateKeyDeductionsWithoutNulls.Length && txtPrivateKey.Text != "")
             {
                 lblOutputDir.Text = "Error: Private key incompatible with encrypted text.";
 
                 return "";
             }
 
-            for (int i = 0; i < privateKeyDeductions.Length; i++)
+            for (int i = 0; i < privateKeyDeductionsWithoutNulls.Length; i++)
             {
-                decryptedSegments[i] = (char)(numberSegments[i] - Convert.ToChar(privateKeyDeductions[i]) - i);
+                decryptedSegments[i] = (char)(numberSegments[i] - Convert.ToChar(privateKeyDeductionsWithoutNulls[i]) - i);
             }
 
             success();
             return string.Concat(decryptedSegments);
         }
 
-        public T[] RemoveNulls<T>(T[] arrayToAlter)
+        //public T[] RemoveNulls<T>(T[] arrayToAlter)
+        //{
+        //    return arrayToAlter.Where(e => !string.IsNullOrEmpty(e.ToString()) || e != null ).ToArray();
+        //}
+
+        public string[] RemoveNulls(string[] arrayToAlter)
         {
-            return arrayToAlter.Where(e => e != null).ToArray();
+            return arrayToAlter.Where(e => !string.IsNullOrEmpty(e.ToString())).ToArray();
         }
 
         public void success()
