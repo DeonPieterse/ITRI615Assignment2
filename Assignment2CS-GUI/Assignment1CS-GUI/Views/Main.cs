@@ -23,7 +23,7 @@ namespace Assignment1CS_GUI
             InitializeComponent();
             StartPosition = FormStartPosition.CenterScreen;
 
-            saveFileDialog1.Filter = "txt files (*.txt) | *.txt | all files (*.ct, *.pk) | *.ct, *.pk";
+            saveFileDialog1.Filter = "txt files (*.txt) | *.txt | all files (*.*) | *.*";
             saveFileDialog1.FilterIndex = 2;
             saveFileDialog1.RestoreDirectory = true;
         }
